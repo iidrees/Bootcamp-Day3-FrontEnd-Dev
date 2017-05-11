@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp_day3_frontend_dev",
+  "version": "1.0.0",
+  "description": "A clone of a webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Idrees Ibraheem",
+  "license": "ISC"
+}
